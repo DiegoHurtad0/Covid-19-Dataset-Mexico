@@ -1,33 +1,33 @@
-Ubicación,Confirmados,Personas recuperadas,Muertes
-Aguascalientes,4290,3098,276
-Baja California,14130,8341,2712
-Baja California Sur,5055,3521,201
-Campeche,4836,3096,569
-Chiapas,5884,3482,938
-Chihuahua,5625,3310,941
-Ciudad de México,77790,56790,9246
-Coahuila de Zaragoza,14690,10982,783
-Colima,2104,1148,251
-Durango,4575,3263,314
-Estado de Hidalgo,7442,4090,1158
-Estado de México,56070,31410,6768
-Guanajuato,22860,16402,1141
-Guerrero,11843,8037,1422
-Jalisco,14352,8798,1685
-Michoacán,10640,7904,816
-Morelos,4281,2004,861
-Nayarit,3739,2352,425
-Nuevo León,20538,14785,1328
-Oaxaca,11325,8052,1001
-Puebla,21650,13817,2684
-Querétaro,4015,2310,526
-Quintana Roo,8359,5057,1074
-San Luis Potosí,11423,8653,597
-Sinaloa,13387,8041,2334
-Sonora,18597,13105,2186
-Tabasco,23591,17926,2144
-Tamaulipas,17529,14142,1206
-Tlaxcala,4938,2936,719
-Veracruz,22953,13319,2946
-Yucatán,11045,6868,974
-Zacatecas,3134,1809,291
+Ubicación,Casos,Personas recuperadas,Muertes
+Aguascalientes,5179,3248,366
+Baja California,15997,8705,3017
+Baja California Sur,6931,4021,313
+Campeche,5351,3224,727
+Chiapas,6169,3519,988
+Chihuahua,7269,3696,1074
+Ciudad de México,92096,59545,10159
+Coahuila de Zaragoza,19874,12094,1236
+Colima,3265,1321,365
+Durango,5867,3510,391
+Estado de Hidalgo,9454,4369,1470
+Estado de México,64559,32663,7654
+Guanajuato,28620,17939,1582
+Guerrero,14116,8592,1596
+Jalisco,18355,9433,2226
+Michoacán,13692,8519,1059
+Morelos,4972,2109,944
+Nayarit,4680,2505,537
+Nuevo León,26487,15580,2000
+Oaxaca,12994,8471,1193
+Puebla,25586,14632,3321
+Querétaro,5591,2557,655
+Quintana Roo,9806,5437,1312
+San Luis Potosí,16065,9698,984
+Sinaloa,15359,8384,2666
+Sonora,20705,13549,2518
+Tabasco,27055,18938,2463
+Tamaulipas,22806,14564,1691
+Tlaxcala,5981,3097,866
+Veracruz,26971,14204,3466
+Yucatán,13596,7784,1229
+Zacatecas,4680,2086,412
