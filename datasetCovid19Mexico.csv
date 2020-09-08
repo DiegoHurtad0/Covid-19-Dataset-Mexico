@@ -1,33 +1,33 @@
-Ubicación,Casos,Personas recuperadas,Muertes
-Aguascalientes,5179,3248,366
-Baja California,15997,8705,3017
-Baja California Sur,6931,4021,313
-Campeche,5351,3224,727
-Chiapas,6169,3519,988
-Chihuahua,7269,3696,1074
-Ciudad de México,92096,59545,10159
-Coahuila de Zaragoza,19874,12094,1236
-Colima,3265,1321,365
-Durango,5867,3510,391
-Estado de Hidalgo,9454,4369,1470
-Estado de México,64559,32663,7654
-Guanajuato,28620,17939,1582
-Guerrero,14116,8592,1596
-Jalisco,18355,9433,2226
-Michoacán,13692,8519,1059
-Morelos,4972,2109,944
-Nayarit,4680,2505,537
-Nuevo León,26487,15580,2000
-Oaxaca,12994,8471,1193
-Puebla,25586,14632,3321
-Querétaro,5591,2557,655
-Quintana Roo,9806,5437,1312
-San Luis Potosí,16065,9698,984
-Sinaloa,15359,8384,2666
-Sonora,20705,13549,2518
-Tabasco,27055,18938,2463
-Tamaulipas,22806,14564,1691
-Tlaxcala,5981,3097,866
-Veracruz,26971,14204,3466
-Yucatán,13596,7784,1229
-Zacatecas,4680,2086,412
+Ubicación,Confirmados,Personas recuperadas,Muertes,lon,lat,ciudad
+Aguascalientes,5835,3929,432,-102.295227,21.879610,Aguascalientes
+Baja California,17166,10247,3196,-115.452263,32.624538,Mexicali
+Baja California Sur,8000,5840,368,-110.324,24.1333,La Paz
+Campeche,5642,3625,775,-90.5237,19.8454,Campeche
+Chiapas,6290,3800,1005,-93.1167,16.75,Tuxtla Gutiérrez
+Chihuahua,8074,4902,1169,-106.090,28.6354,Chihuahua
+Ciudad de México,102000,73641,10725,-99.1269,19.4978,ciudad de méxico
+Coahuila de Zaragoza,22338,16967,1452,-101.25,25.4333,Saltillo
+Colima,3855,2240,447,-103.725,19.2433,Colima
+Durango,6718,4718,462,-104.65756,24.02032,Victoria de Durango
+Estado de Hidalgo,10673,5915,1658,-98.7459,20.1153,Pachuca de Soto
+Estado de México,69502,38891,8170,-99.65324,19.28786,Toluca de Lerdo
+Guanajuato,32922,23586,2231,-101.258,21.0181,Guanajuato
+Guerrero,15163,10687,1681,-99.50578,17.5506,Chilpancingo de los Bravo
+Jalisco,21049,12417,2542,-103.39182,20.66682,Guadalajara
+Michoacán,15615,11241,1243,-101.18443,19.70078,Morelia
+Morelos,5311,2629,987,-99.23075,18.9261,Cuernavaca
+Nayarit,5107,3181,610,-104.89569,21.50951,Tepic
+Nuevo León,30311,20110,2362,-100.31847,25.67507,Monterrey
+Oaxaca,13650,10016,1236,-96.72365,17.06542,Oaxaca de Juárez
+Puebla,27527,17538,3620,-97.55506,19.77097,Puebla de Zaragoza
+Querétaro,6784,3816,765,-100.38806,20.58806,Santiago de Querétaro
+Quintana Roo,10543,6634,1416,-88.30381,18.51413,Chetumal
+San Luis Potosí,18714,14231,1227,-100.97916,22.14982,San Luis Potosí
+Sinaloa,16443,9760,2840,-106.4062,23.2329,Culiacán Rosales
+Sonora,21761,15271,2678,-110.97732,29.1026,Hermosillo
+Tabasco,28815,22376,2620,-92.93028,17.98689,Villahermosa
+Tamaulipas,24913,19575,1850,-99.14599,23.74174,Ciudad Victoria
+Tlaxcala,6579,3988,928,-98.23377,19.17371,Tlaxcala de Xicohténcatl
+Veracruz,28929,17347,3739,-96.91589,19.53124,Xalapa-Enríquez
+Yucatán,15263,10059,1350,-89.61696,20.97537,Mérida
+Zacatecas,5513,3403,521,-102.58141,22.76843,Zacatecas
