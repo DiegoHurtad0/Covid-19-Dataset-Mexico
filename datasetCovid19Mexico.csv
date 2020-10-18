@@ -1,33 +1,33 @@
 Ubicación,Confirmados,Personas recuperadas,Muertes,lon,lat,ciudad
-Aguascalientes,5835,3929,432,-102.295227,21.879610,Aguascalientes
-Baja California,17166,10247,3196,-115.452263,32.624538,Mexicali
-Baja California Sur,8000,5840,368,-110.324,24.1333,La Paz
-Campeche,5642,3625,775,-90.5237,19.8454,Campeche
-Chiapas,6290,3800,1005,-93.1167,16.75,Tuxtla Gutiérrez
-Chihuahua,8074,4902,1169,-106.090,28.6354,Chihuahua
-Coahuila,22338,16967,1452,-99.1269,19.4978,ciudad de méxico
-Colima,3855,2240,447,-101.25,25.4333,Saltillo
-Durango,6718,4718,462,-103.725,19.2433,Colima
-Guanajuato,32922,23586,2231,-104.65756,24.02032,Victoria de Durango
-Guerrero,15163,10687,1681,-98.7459,20.1153,Pachuca de Soto
-Hidalgo,10673,5915,1658,-99.65324,19.28786,Toluca de Lerdo
-Jalisco,21049,12417,2542,-101.258,21.0181,Guanajuato
-Mexico City,102000,73641,10725,-99.50578,17.5506,Chilpancingo de los Bravo
-Michoacán,15615,11241,1243,-103.39182,20.66682,Guadalajara
-Morelos,5311,2629,987,-101.18443,19.70078,Morelia
-Nayarit,5107,3181,610,-99.23075,18.9261,Cuernavaca
-Nuevo Leon,30311,20110,2362,-104.89569,21.50951,Tepic
-Oaxaca,13650,10016,1236,-100.31847,25.67507,Monterrey
-Puebla,27527,17538,362,-96.72365,17.06542,Oaxaca de Juárez
-Querétaro,6784,3816,765,-97.55506,19.77097,Puebla de Zaragoza
-Quintana Roo,10543,6634,1416,-100.38806,20.58806,Santiago de Querétaro
-San Luis Potosi,18714,14231,1227,-88.30381,18.51413,Chetumal
-Sinaloa,16443,9760,284,-100.97916,22.14982,San Luis Potosí
-Sonora,21761,15271,2678,-106.4062,23.2329,Culiacán Rosales
-State of Mexico,69502,38891,817,-110.97732,29.1026,Hermosillo
-Tabasco,28815,22376,262,-92.93028,17.98689,Villahermosa
-Tamaulipas,24913,19575,185,-99.14599,23.74174,Ciudad Victoria
-Tlaxcala,6579,3988,928,-98.23377,19.17371,Tlaxcala de Xicohténcatl
-Veracruz,28929,17347,3739,-96.91589,19.53124,Xalapa-Enríquez
-Yucatan,15263,10059,135,-89.61696,20.97537,Mérida
-Zacatecas,5513,3403,521,-102.58141,22.76843,Zacatecas
+Aguascalientes,8332,6676,738,-102.295227,21.879610,Aguascalientes
+Baja California,21656,17030,3705,-115.452263,32.624538,Mexicali
+Baja California Sur,11513,10118,566,-110.324,24.1333,La Paz
+Campeche,6320,5421,850,-90.5237,19.8454,Campeche
+Chiapas,7426,6229,1063,-93.1167,16.75,Tuxtla Gutiérrez
+Chihuahua,14202,9953,1579,-106.090,28.6354,Chihuahua
+Ciudad de México,146000,123000,14368,-99.1269,19.4978,ciudad de méxico
+Coahuila de Zaragoza,29988,25536,2108,-101.25,25.4333,Saltillo
+Colima,6055,4916,666,-103.725,19.2433,Colima
+Durango,11097,8779,716,-104.65756,24.02032,Victoria de Durango
+Estado de Hidalgo,14509,11619,2139,-98.7459,20.1153,Pachuca de Soto
+Estado de México,91271,78038,10214,-99.65324,19.28786,Toluca de Lerdo
+Guanajuato,44766,39608,3204,-101.258,21.0181,Guanajuato
+Guerrero,21146,18256,2061,-99.50578,17.5506,Chilpancingo de los Bravo
+Jalisco,30900,25008,3663,-103.39182,20.66682,Guadalajara
+Michoacán,22983,20102,1840,-101.18443,19.70078,Morelia
+Morelos,6516,5042,1152,-99.23075,18.9261,Cuernavaca
+Nayarit,6464,5327,806,-104.89569,21.50951,Tepic
+Nuevo León,47323,39428,3510,-100.31847,25.67507,Monterrey
+Oaxaca,19744,17107,1576,-96.72365,17.06542,Oaxaca de Juárez
+Puebla,33884,28432,4539,-97.55506,19.77097,Puebla de Zaragoza
+Querétaro,11314,8812,1102,-100.38806,20.58806,Santiago de Querétaro
+Quintana Roo,12975,10819,1775,-88.30381,18.51413,Chetumal
+San Luis Potosí,25910,22768,1845,-100.97916,22.14982,San Luis Potosí
+Sinaloa,20702,16435,3476,-106.4062,23.2329,Culiacán Rosales
+Sonora,36359,32444,3059,-110.97732,29.1026,Hermosillo
+Tabasco,33516,29715,2982,-92.93028,17.98689,Villahermosa
+Tamaulipas,30822,27481,2513,-99.14599,23.74174,Ciudad Victoria
+Tlaxcala,8143,6845,1083,-98.23377,19.17371,Tlaxcala de Xicohténcatl
+Veracruz,35724,30060,4636,-96.91589,19.53124,Xalapa-Enríquez
+Yucatán,20162,17393,1707,-89.61696,20.97537,Mérida
+Zacatecas,9219,7306,818,-102.58141,22.76843,Zacatecas
